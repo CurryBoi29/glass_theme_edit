@@ -64,7 +64,7 @@ to create custom gradient : https://cssgradient.io/ and copy the linear-gradient
     --interactive-active: var(--header-primary);
 
     --notification-color: 255, 75, 100;
-    /*--rainbow-gradient: linear-gradient(135deg, rgb(0, 0, 0) 0%, rgb(0, 0, 0) 20%, rgb(0, 0, 0) 40%, rgb(0, 0, 0) 60%, rgb(0, 0, 0) 80%, rgb(0, 0, 0) 100%); */
+    --rainbow-gradient: linear-gradient(135deg, rgb(0, 0, 0) 0%, rgb(0, 0, 0) 20%, rgb(0, 0, 0) 40%, rgb(0, 0, 0) 60%, rgb(0, 0, 0) 80%, rgb(0, 0, 0) 100%); 
 }
 
 /* TITLE BAR */
